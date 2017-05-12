@@ -1,5 +1,6 @@
 # D.O.F.Focuser-Unity
 A script to dynamically change D.O.F. focus in the new post-processing stack in Unity 5.
+This script is a modified and upgraded version of Keijiro's FocusPuller script.
 
 ![](https://cloud.githubusercontent.com/assets/20238115/25970432/a1ec968c-3666-11e7-9f7d-0c01469ef3a6.gif)
 
