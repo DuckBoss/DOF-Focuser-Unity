@@ -18,12 +18,6 @@ public class JJ_DOF_Editor : Editor {
 			myTarget.Speed = EditorGUILayout.FloatField("Speed:", myTarget.Speed);
 		}
 		else if(myTarget.focusMode == JJ_DOF_Focuser.FocusMode.View) {
-			/* Best Settings - 
-			myTarget._controller.depthOfField.useCameraFov = false;
-			myTarget._controller.depthOfField.focusDistance = 5.1f;
-			myTarget._controller.depthOfField.focalLength = 65f;
-			*/
-
 			myTarget.StandardFocusDistance = EditorGUILayout.FloatField("Default Distance:", myTarget.StandardFocusDistance);
 			myTarget.Speed = EditorGUILayout.FloatField("Speed:", myTarget.Speed);
 		}
