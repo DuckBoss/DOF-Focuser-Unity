@@ -7,7 +7,7 @@ A script to dynamically change D.O.F. focus in the new post-processing stack in 
 
 ## Requirements :
 - Unity 5
-- This project requires the Post Processing Stack from Unity-Technologies.
+- This project requires the Post Processing Stack (v1) from Unity-Technologies.
   https://github.com/Unity-Technologies/PostProcessing
   
 - This project also requires the Post Processing Controller Script from [Keijiro](https://github.com/keijiro).
