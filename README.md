@@ -1,5 +1,5 @@
 # D.O.F.Focuser-Unity
-A script to dynamically change D.O.F. focus in the new post-processing stack in Unity 5.
+A script to dynamically change D.O.F. (Depth of Field) focus in the new post-processing stack in Unity 5.
 
 [![GitHub release](https://img.shields.io/badge/Build-1.0-brightgreen.svg)](https://github.com/DuckBoss/DOF-Focuser-Unity/releases/latest)
 [![Packagist](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/DuckBoss/DOF-Focuser-Unity/blob/master/LICENSE)
