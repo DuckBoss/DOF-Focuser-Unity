@@ -5,12 +5,16 @@ A script to dynamically change D.O.F. (Depth of Field) focus in the new post-pro
 [![Packagist](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/DuckBoss/DOF-Focuser-Unity/blob/master/LICENSE)
 
 
+## Status :
+This script is not compatible with the new Post Processing Stack (v2) introduced in Unity 2018+.
+
 *This script is a modified and upgraded version of [Keijiro's](https://github.com/keijiro) FocusPuller script.*
 
 ![](https://cloud.githubusercontent.com/assets/20238115/25970432/a1ec968c-3666-11e7-9f7d-0c01469ef3a6.gif)
 
 ## Requirements :
-- Unity 5
+- Unity 5+
+- This project is NOT COMPATIBLE with Unity 2018+ which uses the Post Processing Stack (v2).
 - This project requires the Post Processing Stack (v1) from Unity-Technologies.
   https://github.com/Unity-Technologies/PostProcessing
   
