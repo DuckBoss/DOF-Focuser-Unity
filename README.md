@@ -1,6 +1,7 @@
 # THIS BRANCH IS NOW DEPRECATED
 <b>This branch is now the legacy support branch for Unity versions that use the PostProcessingStack(v1). This should be engine versions: 5 and under.</b>
 <br>
+<b>The up-to-date branch is [unity_2017+](https://github.com/DuckBoss/DOF-Focuser-Unity)</b>
 <br>
 <br>
 <br>
