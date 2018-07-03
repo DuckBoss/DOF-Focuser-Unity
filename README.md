@@ -4,7 +4,7 @@ A script to dynamically change D.O.F. (Depth of Field) focus in the new post-pro
 [![GitHub release](https://img.shields.io/badge/Build-2.0-brightgreen.svg)](https://github.com/DuckBoss/DOF-Focuser-Unity/releases/latest)
 [![Packagist](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/DuckBoss/DOF-Focuser-Unity/blob/master/LICENSE)
 
-*This script is a modified and upgraded version of [Keijiro's](https://github.com/keijiro) post processing stack(v1)*
+*This script is based on [Keijiro's](https://github.com/keijiro) post processing stack(v1). My updated version supports the newer post processing stack(v2).*
 
 ![](https://cloud.githubusercontent.com/assets/20238115/25970432/a1ec968c-3666-11e7-9f7d-0c01469ef3a6.gif)
 
