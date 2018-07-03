@@ -4,7 +4,7 @@
 <b>The up-to-date branch is [unity_2017+](https://github.com/DuckBoss/DOF-Focuser-Unity)</b>
 <br>
 <br>
-- <b>Since this branch is now deprecated, new features will not be implemented. However, I will try to fix any bugs that show up.</b>
+<i><b>Since this branch is now deprecated, new features will not be implemented. However, I will try to fix any bugs that show up.</b></i>
 <br>
 <br>
 <br>
