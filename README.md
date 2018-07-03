@@ -1,6 +1,12 @@
 # THIS BRANCH IS NOW DEPRECATED
-- This branch is now the legacy support branch for Unity versions that use the PostProcessingStack(v1). This should be engine versions: 5 and under.
-
+<b>This branch is now the legacy support branch for Unity versions that use the PostProcessingStack(v1). This should be engine versions: 5 and under.</b>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # D.O.F.Focuser-Unity
 A script to dynamically change D.O.F. (Depth of Field) focus in the new post-processing stack in Unity 5.
