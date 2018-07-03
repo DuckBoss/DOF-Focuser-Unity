@@ -13,9 +13,6 @@ A script to dynamically change D.O.F. (Depth of Field) focus in the new post-pro
 - This project is NOT COMPATIBLE with Unity 5 which uses the Post Processing Stack (v1).
 - This project requires the Post Processing Stack (v2) from Unity-Technologies.
   https://github.com/Unity-Technologies/PostProcessing
-  
-- This project also requires the Post Processing Controller Script from [Keijiro](https://github.com/keijiro).
-  https://github.com/keijiro/PostProcessingUtilities
 
 ## Installation :
 - Put the two scripts (DOF_Focuser_Editor.cs and DOF_Focuser.cs) into your project and you're set!
