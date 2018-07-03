@@ -19,7 +19,10 @@ A script to dynamically change D.O.F. (Depth of Field) focus in the new post-pro
 
 ## Installation :
 - Put the two scripts (DOF_Focuser_Editor.cs and DOF_Focuser.cs) into your project and you're set!
+- Please make sure the Post Processing Stack(v2) is in your project, NOT (v1).
 
+Side Note:
+<i>In Unity 2018+, it is possible to download the new Post Processing Stack(v2) through the Package Manager.</i>
 
 ## Usage :
 - Add the 'DOF_Focuser.cs' onto a gameobject (preferably the Camera, although not required).
