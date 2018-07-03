@@ -1,7 +1,7 @@
 # D.O.F.Focuser - Unity 2017+
 A script to dynamically change D.O.F. (Depth of Field) focus in the new post-processing stack(v2) in Unity 2017+.
 
-[![GitHub release](https://img.shields.io/badge/Build-1.0-brightgreen.svg)](https://github.com/DuckBoss/DOF-Focuser-Unity/releases/latest)
+[![GitHub release](https://img.shields.io/badge/Build-2.0-brightgreen.svg)](https://github.com/DuckBoss/DOF-Focuser-Unity/releases/latest)
 [![Packagist](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/DuckBoss/DOF-Focuser-Unity/blob/master/LICENSE)
 
 *This script is a modified and upgraded version of [Keijiro's](https://github.com/keijiro) post processing stack(v1)*
@@ -18,7 +18,7 @@ A script to dynamically change D.O.F. (Depth of Field) focus in the new post-pro
   https://github.com/keijiro/PostProcessingUtilities
 
 ## Installation :
-- Put the two scripts (DOF_Editor.cs and DOF_Focuser.cs) into your project and you're set!
+- Put the two scripts (DOF_Focuser_Editor.cs and DOF_Focuser.cs) into your project and you're set!
 
 
 ## Usage :
