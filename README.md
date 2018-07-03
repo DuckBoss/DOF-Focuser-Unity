@@ -29,3 +29,6 @@ Side Note:
 ## Extra Notes :
 - The Transform Mode is most useful when tracking specific objects.
 - The View Mode is most useful in first person games where you require refocusing the D.O.F. based on what your player/camera is looking at.
+
+## Bugs, Issues, or Feature Requests?
+Use the github issue/feature template provided in the repository.
